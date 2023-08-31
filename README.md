@@ -1,2 +1,2 @@
-# Atalhos-para-ajudar
- Atalhos feitos para ajudar em HTML
+# Atalhos-HTML
+ Ajudar no HTML
